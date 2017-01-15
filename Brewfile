@@ -3,6 +3,7 @@
 
 tap caskroom/cask
 cask alfred
+cask iterm2
 cask sourcetree
 
 tap homebrew/core
