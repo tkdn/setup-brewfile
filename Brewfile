@@ -4,7 +4,9 @@
 tap caskroom/cask
 cask alfred
 cask iterm2
+cask java
 cask sourcetree
+cask virtualbox
 
 tap homebrew/core
 brew autoconf
