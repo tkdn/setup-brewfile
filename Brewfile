@@ -38,7 +38,7 @@ tap rcmdnk/file
 brew brew-file
 
 # App Store applications
-appstore 682658836 GarageBand (10.1.5)
+appstore 682658836 GarageBand (10.1.6)
 appstore 409183694 Keynote (7.0.5)
 appstore 896624060 Kobito (2.3.8)
 appstore 409203825 Numbers (4.0.5)
