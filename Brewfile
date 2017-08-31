@@ -51,10 +51,3 @@ brew mpfr
 
 tap rcmdnk/file
 brew brew-file
-
-# App Store applications
-appstore 406056744 Evernote (6.12)
-appstore 668208984 GIPHY CAPTURE (3.7)
-appstore 803453959 Slack (2.7.1)
-appstore 1122008420 Table Tool (1.2.1)
-appstore 497799835 Xcode (8.3.3)
